@@ -37,3 +37,6 @@ console.log(test.name); //hika
 console.log(test.company); //bsidesoft
 console.log(test.other); //no other
 ```
+
+related posting(korean)
+<a href="https://www.bsidesoft.com/8312" target="_blank">[js] 코틀린 delegated Property 흉내내기</a>
