@@ -1,4 +1,4 @@
-class by{
+export class by{
   static getValue = Symbol();
   static setValue = Symbol();
   static set(cls){
