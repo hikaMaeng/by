@@ -1,4 +1,4 @@
-const lazy =(_=>{
+export const lazy =(_=>{
   class Lazy{
     static #EMPTY = Symbol();
     #f;
